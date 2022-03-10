@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👨‍💻 Atualmente trabalho com automação (RPA)
+- 🚀 Estou estudando Hmtl5,Css3 e Js
+- 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas
 
 <div align="center">
  <a href="https://github.com/wellington-1991">
