@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o Wellington Santos ✌🏼
 
 
 - 👨‍💻 Atualmente trabalho com automação (RPA)
+- ⚙  Cargo: Programador Jr.
 - 🚀 Estou estudando Hmtl5,Css3 e Js
 - 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas
 
