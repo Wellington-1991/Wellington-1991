@@ -1,10 +1,13 @@
 ### Olá, eu sou o Wellington Santos ✌🏼
 
 
-- 👨‍💻 Atualmente trabalho com automação (RPA)
-- ⚙  Cargo: Programador Jr.
-- 🚀 Estou estudando Hmtl5,Css3 e Js
-- 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas
+- 👨‍💻 Desenvolvedor | .Net Framework| Entity Framework| Asp.Net Core | SQLServer | C# | Python | Git | GitLab.
+- ⚙  Cargo: Desenvolvedor Back-End.
+- 🚀 Atualmente estou Front-End.
+- ❤  Gosto de estar sempre aprendengo algo novo.
+- 🎸 Estou Aprendendo a tocar violão.
+- 👍🏽 Gosto de ler.
+- 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas.
 
 <div align="center">
  <a href="https://github.com/wellington-1991">
