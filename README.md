@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Desenvolvedor | .Net Framework| Entity Framework| Asp.Net Core | SQLServer | C# | Python | Git | GitLab.
-- ⚙  Cargo: Desenvolvedor Back-End.
+- 👨🏽‍💻  Cargo: Desenvolvedor Back-End.
 - 🚀 Atualmente estou Front-End.
 - ❤  Gosto de estar sempre aprendengo algo novo.
 - 🎸 Estou Aprendendo a tocar violão.
