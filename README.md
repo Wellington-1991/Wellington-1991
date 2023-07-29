@@ -3,7 +3,7 @@
 
 - 👨‍💻 Desenvolvedor Back-End | .Net Framework| Entity Framework| Asp.Net Core | SQLServer | C# | Python | Git | GitLab.
 - 🚀 Atualmente estou Front-End.
-- ❤  Gosto de estar sempre aprendengo algo novo.
+- ❤  Gosto de estar sempre aprendendo algo novo.
 - 🎸 Estou Aprendendo a tocar violão.
 - 👍🏽 Gosto de ler.
 - 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas.
