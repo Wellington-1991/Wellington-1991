@@ -1,8 +1,8 @@
 ### Olá, eu sou o Wellington Santos ✌🏼
 
 
-- 👨‍💻 Desenvolvedor Back-End | .Net Framework| Entity Framework| Asp.Net Core | SQLServer | C# | Python | Git | GitLab.
-- 🚀 Atualmente estou estudando Front-End.
+- 👨‍💻 Desenvolvedor Back-End | .Net Framework| Entity Framework| Asp.Net Core | SQLServer | C# | Python | Git | GitLab | PHP.
+- 🚀 Atualmente estou estudando NestJs e NextJs.
 - ❤  Gosto de estar sempre aprendendo algo novo.
 - 👍🏽 Gosto de ler.
 - 👨‍🎓 Graduado em Analise e desenvolvimento de Sistemas.
